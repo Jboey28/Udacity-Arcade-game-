@@ -17,7 +17,7 @@ Your **README.md** file should be updated with instructions on both how to 1. Ru
 For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
 
 
-##Game Instructions
+## Game Instructions
 1. To run the game open the frontend-nanodegree-arcade-game-master zip file and in the folder open the index.html file with any browser of your choosing.
 
 2. To play the game you move the arrow keys left, up, down, right.
